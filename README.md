@@ -27,6 +27,8 @@ Web程序设计课程实验二：基于 Vue 3 + Vue Router 的个人作品展示
 | 404页面 | 捕获未匹配路由，友好提示 |
 
 ## 项目结构
+
+```
 portfolio-app/
 ├── src/
 │   ├── components/        # 组件目录
@@ -50,6 +52,7 @@ portfolio-app/
 │   ├── App.vue             # 根组件
 │   └── main.js             # 入口文件
 └── package.json
+```
 
 ## 运行步骤
 
